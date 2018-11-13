@@ -1,0 +1,24 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /myspringboot
+
+boy:
+  name: ysc
+  age: 22
+  content: content:${namg},${age}
+
+spring:
+  profiles:
+    active: dev
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: ppp000---
+
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
