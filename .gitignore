@@ -17,6 +17,7 @@
 *.ipr
 *.log
 *.xlsx
+*.zip
 
 ### NetBeans ###
 /nbproject/private/
