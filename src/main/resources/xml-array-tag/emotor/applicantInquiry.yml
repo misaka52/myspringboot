@@ -1,0 +1,13 @@
+Packet:
+  Body:
+    LastCoverageList:
+      CoverageItem:
+    CmmTrafficViolationList:
+      TrafficViolation:
+    CplTrafficViolationList:
+      TrafficViolation:
+    CmmClaimRecordList:
+      ClaimRecord:
+    CplClaimRecordList:
+      ClaimRecord:
+    CoverageItem:

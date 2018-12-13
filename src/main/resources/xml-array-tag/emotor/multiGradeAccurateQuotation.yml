@@ -1,0 +1,16 @@
+# 本文件只含键值，键值为xml数组标记路径
+Packet:
+  Body:
+    CoverageItem:
+    CmmTrafficViolationList:
+      TrafficViolation:
+    CplTrafficViolationList:
+      TrafficViolation:
+    CmmClaimRecordList:
+      ClaimRecord:
+    CplClaimRecordList:
+      ClaimRecord:
+    LastCoverageList:
+      CoverageItem:
+    LastYearCoverageList:
+      CoverageItem:

@@ -1,0 +1,13 @@
+Packet:
+  Body:
+    CoverageItem:
+    SpecialagtList:
+      SpecialagtItem:
+    CmmTrafficViolationList:
+      TrafficViolation:
+    CplTrafficViolationList:
+      TrafficViolation:
+    CmmClaimRecordList:
+      ClaimRecord:
+    CplClaimRecordList:
+      ClaimRecord:
